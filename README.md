@@ -7,6 +7,8 @@ It is not very feature rich as it is only intended to add a border to your image
 
 I will likely work on further features as a hobby but right now it is missing border colours, image preview, loading bars and a check to make sure you don't want to overwrite existing files. For my purpose this is not an issue for me. I have not tested for extreme resize dimensions as I want to keep that section free for users to input what they want, even though extreme dimensions could adversly affect your system when generating large files.
 
+I have provided both the EXE and py script if you wish to look through the code and compile it yourself.
+
 
 
 Instructions for use.
